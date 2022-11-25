@@ -5,7 +5,7 @@
 - 사용 Tool : phpMyAdmin(5.04), VS code, Grafana(8.0)
 - 사용 DB : MySQL (8.0.22)
 - 프로젝트 내용 : 센서 데이터를 웹서버를 통해 DB에 저장 후 Grafana를 통해 시각화
-- [PDF]()
+- [PDF](https://github.com/rkgh17/project/blob/main/project01/%EC%84%BC%EC%84%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
 
 ---
 ## Project 02.
