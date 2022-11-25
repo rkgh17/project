@@ -1,6 +1,7 @@
 ## Project 01.
 ### 데이터 모니터링 시스템
 - 기간 : 2021.06.10 ~ 2021.06.24
+- 인원 : 1명
 - 사용언어 : Python
 - 사용 Tool : phpMyAdmin(5.04), VS code, Grafana(8.0)
 - 사용 DB : MySQL (8.0.22)
@@ -12,7 +13,7 @@
 ### 지하철 이슈 알리미 챗봇
 - [프로젝트 폴더](https://github.com/rkgh17/human-subway)
 - 기간 : 2022.11.11 ~ 2022.12.02
-- 팀명 : SAIN(3명)
+- 인원 : 3명
 - 사용언어 : Python
 - 사용 Tool : Jupyter, VS code
 - 사용 DB : PostgreSQL (14.5)
