@@ -2,7 +2,7 @@
 ### Smart Farm IOT - 센서 데이터 모니터링 시스템
 - 기간 : 2021.06.01 ~ 2021.06.15
 - 인원 : 1명
-- 사용언어 : Python, JavaScript, HTML
+- 사용언어 : Python, JavaScript, HTML, PHP
 - 사용 Tool : phpMyAdmin(5.04), Grafana(8.0), putty(0.75), VS code
 - 사용 DB : MySQL(8.0.22), MariaDB (10.6)
 - 프로젝트 내용 : Smart Farm을 구성하는 IOT와 데이터 모니터링 환경을 구축한다
