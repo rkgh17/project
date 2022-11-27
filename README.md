@@ -1,6 +1,6 @@
 ## Project 01.
 ### Smart Farm IOT - 센서 데이터 모니터링 시스템
-- 기간 : 2021.06.2 ~ 2021.06.16
+- 기간 : 2021.06.02 ~ 2021.06.16
 - 인원 : 1명
 - 사용언어 : Python, JavaScript, HTML, PHP
 - 사용 Tool : phpMyAdmin(5.04), Grafana(8.0), putty(0.75), VS code
