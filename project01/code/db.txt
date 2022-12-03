@@ -1,0 +1,5 @@
+create table DHT22(DEV VARCHAR(10), TIME TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP, TEMP float, HUMI float);
+
+templates/control_pannel.html
+static/css/control_panel.css
+app.py

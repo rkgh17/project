@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+   <head>
+      <title>Sensor Data Monitoring System</title>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+      <script>
+          $(function() {
+              $("#on").click(
+                  function() {
+                      window.location.replace("http://192.168.137.15:5000/on")
+                    }
+                );
+              $("#off").click(
+                  function() {
+                      window.location.replace("http://192.168.137.15:5000/off")
+                    }
+                );
+          });
+        </script>
+        <link rel="stylesheet" type="text/css" href="../static/css/control_panel.css" />
+   </head>
+   <body>
+       <h1>Smart Farm Monitoring System</h1>
+       <button id="on">ON</button><br>
+       <button id="off">OFF</button>
+       <br><br><br>
+       <a href="http://192.168.137.1:3000/d/gWqyIRgnk/hjh-aws?orgId=1&refresh=5s">Real-Time-Graph</a>
+   </body>
+</html>
