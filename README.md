@@ -1,6 +1,6 @@
 ## Project 01.
 ### Smart Farm IOT - 센서 데이터 모니터링 시스템
-- [프로젝트 폴더](https://github.com/rkgh17/project/tree/main/project01)
+- [프로젝트 링크](https://github.com/rkgh17/project/tree/main/project01)
 - 기간 : 2021.06.02 ~ 2021.06.16 (2주)
 - 인원 : 1명
 - 사용언어 : Python, PHP
@@ -12,7 +12,7 @@
 ---
 ## Project 02.
 ### 지하철 이슈 알리미 챗봇
-- [프로젝트 폴더](https://github.com/rkgh17/human-subway)
+- [프로젝트 링크](https://github.com/rkgh17/human-subway)
 - 기간 : 2022.11.11 ~ 2022.12.02 (3주)
 - 인원 : 3명
 - 사용언어 : Python
@@ -25,7 +25,7 @@
 ---
 ## Project 03.
 ### 서울 둘레길 추천&정보 웹사이트
-- [프로젝트 폴더](https://github.com/rkgh17/SeoulWalk)
+- [프로젝트 링크](https://github.com/rkgh17/SeoulWalk)
 - 기간 : 2022.12.16 ~ 2023.01.27 (6주)
 - 인원 : 4명
 - 사용 언어 : Java, JavaScript
