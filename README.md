@@ -41,7 +41,7 @@
 ## Project 04.
 ### ToDoList 웹 어플리케이션 개발
 - [프로젝트 폴더 링크](https://github.com/rkgh17/ToDoList_Project)
-- 기간 : ##개발중##
+- 기간 : **개발중**
 - 인원 : 1명
 - 사용 언어 : Java, JavaScript (React)
 - 사용 DB : MySQL(8.0.31)
