@@ -26,6 +26,7 @@
 
 ## Project 03.
 ### 서울 둘레길 추천&정보 웹사이트
+- [프로젝트 웹 링크](https://seoulwalk.kro.kr/main)
 - [프로젝트 폴더 링크](https://github.com/rkgh17/SeoulWalk)
 - 기간 : 2022.12.16 ~ 2023.01.27 (6주)
 - 인원 : 4명
@@ -33,7 +34,6 @@
 - 사용 Tool : STS, Vs code
 - 사용 DB : MySQL(8.0.31)
 - 프로젝트 내용 : 서울 둘레길 관련 산책 코스의 정보를 알려주고, 추천해주는 웹 사이트 제작 및 배포
-- [프로젝트 웹 링크](https://seoulwalk.kro.kr/main)
 - [PDF](https://github.com/rkgh17/SeoulWalk/blob/hjh/SeoulWalk/pdf/Seoul%20Walk.pdf)
 - [시연영상](https://www.youtube.com/watch?v=FQA0DWPVtXA)
 
