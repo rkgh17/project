@@ -26,7 +26,7 @@
 
 ## Project 03.
 ### 서울 둘레길 추천&정보 웹사이트
-- [프로젝트 웹 링크](https://seoulwalk.kro.kr/main)
+- [~~프로젝트 웹 링크~~](https://seoulwalk.kro.kr/main)
 - [프로젝트 폴더 링크](https://github.com/rkgh17/SeoulWalk)
 - 기간 : 2022.12.16 ~ 2023.01.27 (6주)
 - 인원 : 4명
