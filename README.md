@@ -37,7 +37,7 @@
 - [PDF](https://github.com/rkgh17/SeoulWalk/blob/hjh/SeoulWalk/pdf/Seoul%20Walk.pdf)
 - [시연영상](https://www.youtube.com/watch?v=FQA0DWPVtXA)
 
-
+<!--
 ## Project 04.
 ### ToDoList 웹 어플리케이션 개발
 - [프로젝트 폴더 링크](https://github.com/rkgh17/ToDoList_Project)
@@ -46,3 +46,4 @@
 - 사용 언어 : Java, JavaScript (React)
 - 사용 DB : MySQL(8.0.31)
 - 프로젝트 내용 : 할 일을 기록하고 저장하는 ToDoList 웹 어플리케이션을 개발
+-->
